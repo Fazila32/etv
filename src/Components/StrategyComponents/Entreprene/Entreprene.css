@@ -1,0 +1,23 @@
+
+ul{
+    list-style: none;
+}
+.enter-cards{
+border-top-left-radius: 70px;
+background-color: white;
+
+border-bottom-right-radius:70px;
+text-align: justify;
+transition: background-color 2s;
+box-shadow: 30px 20px 18px #f7e0cc;
+}
+/* .custome{
+    background-image: url(../../../images/star.png);
+} */
+li:before{
+    content: "\2713";
+    color:#D96200 ;
+    font-size: 20px;
+    font-weight: 900;
+    margin-right: 5px;
+}

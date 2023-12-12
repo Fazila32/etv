@@ -1,0 +1,44 @@
+.provide{
+    margin-top: 130px;
+    background-color: #008080;
+    position: relative;
+}
+.circle{
+    background-color: #75fed0;
+    position: absolute;
+    border-radius: 50%;
+}
+.c-1{
+  
+    height: 200px;
+    width: 200px;
+    top: 32%;
+    right: 60%
+}
+.c-2{
+    height: 140px;
+    width: 140px;
+    top: 36%;
+    left: 60%;
+}
+.c-3{
+    height: 120px;
+    width: 120px;
+    top: 51%;
+    left: 68%;
+}
+.c-4{
+    height: 100px;
+    width: 100px;
+    top: 66%;
+    left: 74%;
+}
+.c-5{
+    height: 100px;
+    width: 100px;
+    top: 80%;
+    left: 74%;
+}
+.hImg{
+height: 600px;
+}

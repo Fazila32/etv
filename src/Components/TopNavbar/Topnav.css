@@ -1,0 +1,16 @@
+/* .brdr{
+    border-bottom: 2px solid black;
+    padding-bottom: 30px;
+} */
+/* .nav-link{
+    color: black !important;
+} */
+link:hover {
+     color: #D96200 !important;
+}
+link.active, .navbar-nav .nav-link.show {
+    color: #D96200!important;
+}
+.dropdown-menu{
+    --bs-dropdown-link-active-bg: #D96200 !important;
+} 

@@ -1,0 +1,60 @@
+.bgSet {
+  background-image: linear-gradient(to right, #f7e0cc, rgba(247, 224, 204, 0.966), rgba(230, 241, 241, 0.082)),
+    url("../../images/suwo.jpg");
+    /* background: url("../../images/herosec.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* height: 80vh; */
+    height: fit-content;
+    display: flex;
+    align-items: center ;
+border-bottom: 8px solid #D96200;
+}
+.hero-text{
+    width: 60%;
+ }
+ .text-size1{
+    font-size: 50px;
+ }
+ .darkO-txt {
+
+    color: #D96200;
+ } 
+ .text-size2{
+    font-size: 32px;
+ }
+.hero-text-clr{
+    color: #212529;
+}
+.paras{
+    color: #a2a2a2;
+}
+.text-size{
+    font-size: 45px !important;
+}
+.btn-lg{
+    border-radius: 50px !important;
+}
+.hr-btn{
+    background-color: #D96200 !important;
+}
+/* .img-brdr{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(196, 192, 192, 0.22) 0px 10px 10px;
+} */
+/* mobile phones */
+@media only screen and (max-width: 550px){
+    .text-size1{
+        font-size: 30px;
+     }
+     .text-size2{
+        font-size: 20px;
+     }
+     .text-size{
+        font-size: 30px !important;
+    }
+     .hero-text{
+        width: 90%;
+        margin:auto;
+     }
+}

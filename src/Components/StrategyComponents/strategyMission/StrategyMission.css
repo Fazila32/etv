@@ -1,0 +1,36 @@
+.Smission{
+    background-image: linear-gradient(to right, #f7e0cc, rgba(247, 224, 204, 0.966), rgba(240, 236, 236, 0)),
+    url("../../../images//missbg.jpg");
+  
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    
+    height: fit-content;
+    
+    display: flex;
+    object-fit: contain;
+    
+
+}
+.stra-mission{ width:50%}
+/* .picture{
+    max-width: 100%;
+   
+    border-left: 8px solid #008080;
+    border-right: 8px solid #008080;
+   
+  
+    border-radius: 30%;
+   
+}
+.right-content{
+    padding-left: 4%;
+    margin-bottom: 10px !important;
+    
+   
+    
+} */
+@media only screen and (max-width: 990px){
+    .stra-mission{ width:90%; margin: auto;}
+}

@@ -1,0 +1,12 @@
+.TbgSet{
+    background-image: linear-gradient(to right, #f7e0cc, rgba(247, 224, 204, 0.966), rgba(240, 236, 236, 0)),
+    url("../../../images/teambg.jpg");
+    /* background: url("../../images/herosec.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: fit-content;
+    display: flex;
+    align-items: center ;
+border-bottom: 8px solid #D96200;
+}

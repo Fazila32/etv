@@ -1,0 +1,24 @@
+.footer{
+    background-color: #f8f8f8;
+   
+}
+
+.btn-sub{
+    background-color: #07365c !important;
+    border-radius: none !important;
+}
+.btn-sub {
+    --bs-btn-border-radius: none !important;
+    border-top-right-radius: 9px !important;
+border-bottom-right-radius: 9px !important;
+}
+.mail {
+    border-radius: 0 !important; 
+    border-top-left-radius: 9px !important;
+    border-bottom-left-radius: 9px !important;
+ }
+ a{
+    text-decoration: none !important;
+    color: black !important;
+
+ }

@@ -1,0 +1,63 @@
+.imgw2{
+    width: 450px;
+}
+
+.text-border{
+    border-left: 3px solid #D96200 ;
+}
+.scnd-bg{
+background-color: #d1cdcd;
+}
+.calcs2{
+    background-color:#f7e0cc;
+    }
+.cal1{
+    width: 60%;
+    margin-top: 30px;
+}
+.cal2{
+    width: 63%;
+}
+.cal3{
+    width: 66%;
+}
+.cal4{
+    width: 71%;
+}
+.cal5{
+    width: 77%;
+}
+.image-ps{
+    top: 2px;
+    right: 65%
+}
+.star{
+    color: #f4b43f;
+}
+.info-btn{
+    margin-top: 7%;
+    border: 2px solid #D96200 !important;
+    color: #D96200 !important;
+}
+@media only screen and (max-width: 1100px){.image-ps{
+    top: 2px;
+    right: 58%
+}}
+@media only screen and (max-width: 640px){
+    .cal1{
+        width: 70%;
+        margin-top: 30px;
+    }
+    .cal2{
+        width: 73%;
+    }
+    .cal3{
+        width: 76%;
+    }
+    .cal4{
+        width: 81%;
+    }
+    .cal5{
+        width: 90%;
+    }
+}

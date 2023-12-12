@@ -1,0 +1,42 @@
+.Ed{
+    width: 60% !important;
+      border-radius: 30px;
+    /* margin:auto; */
+    background-color: #D96200;
+}
+.imgr{
+    rotate: 7deg;
+    width: 100%;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid #f7e0cc;
+    box-shadow: 10px 5px 18px #f7e0cc;
+}
+.persoImg{
+  width: 30%;
+}.title{
+  color: #D96200;
+}
+.cardS{
+  background-color: white;
+  border-radius: 30px;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  box-shadow: 20px 25px 18px #f7e0cc;
+}
+.imageSet{
+  border-radius: 50%;
+  border: 2px solid #f7e0cc;
+   box-shadow: 10px 5px 18px #f7e0cc;
+}
+.btn-I{
+  border: 3px solid #D96200;
+  border-radius: 30%;
+}
+@media only screen and (max-width: 550px){
+  .Ed{
+    width: 50% !important;
+    
+      margin:auto;
+      margin-bottom: 30px;
+}
+}
